@@ -59,16 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rushabh-Beep-ML&show_icons=true&theme=tokyonight&hide_border=true" alt="Rushabh's Github Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushabh-Beep-ML&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushabh-beep&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushabh-beep&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushabh-beep&theme=tokyo-night"/>
-</p>
 
 ---
 
