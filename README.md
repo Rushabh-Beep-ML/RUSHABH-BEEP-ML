@@ -6,13 +6,12 @@
 </p>
 
 ---
+### 💼 About Me
 
-### 💻 About Me
-* 🌱 I’m currently pursuing my **B.Sc. in Computer Science** at Nowrosjee Wadia College (Graduating 2027).
-* 🧠 Passionate about AI/ML, backend architecture, and building intelligent real-world solutions.
-* 🚀 Recently building **HydraXAI** (Explainable climate-aware flood risk intelligence) and **AtlasRAG** (Multilingual disaster knowledge management).
-* ⚡ Fun fact: Sometimes breaking things just to figure out how to fix them better 😅.
-
+* 🔭 Spearheading the architecture of intelligent software systems, with a principal emphasis on artificial intelligence, machine learning methodologies, and robust backend engineering.
+* 💡 Actively architecting advanced paradigms, including **HydraXAI** (an explainable, climate-conscious flood risk intelligence framework) alongside **AtlasRAG** (a multilingual retrieval-augmented generation engine for disaster knowledge orchestration).
+* ⚙️ Proficient in designing scalable distributed systems, optimising relational and non-relational database infrastructures, and deploying automated vulnerability intelligence tools.
+* 🔬 Passionate about bridging theoretical computational models with high-performance real-world implementations to solve complex infrastructural challenges.
 ---
 
 ### 🛠️ Tech Stack
